@@ -1,0 +1,22 @@
+{
+	"Basics": {
+		"name": "HANUMAN KUMAR P",
+		"role": "Full Stack Web-Developer",
+		"location": "Visakhapatnam, AndhraPradesh",
+		"mobile": "+91 8374614212",
+		"email": "hanumankumar035@gmail.com",
+		"desc": [
+			"3+ years of experience in the Software Industry, played various roles starting from software developer.", "Extensive experience as PHP Developer / Web Developer.", "Excellent experience in Responsive Web Designing using Bootstrap, Media Queries and FlexBoxes.", "Good experience in working with MySQL(CMS / non - CMS) and MySQLi.", "Experience in Developing e - Commerce Websites using CMS like Magento and Opencart ", "Knowledge of PHP FrameWorks like Codeigniter.", "Extensive experience in client side scripting languages and libraries like Javascript, Jquery and ReactJs, HowlerJs, HighchartsJs and did Front - end Nanodegree which was provided by Udacity.", "Having practical exposure on Nodejs and NPM ", "Having knowledge on building offline first application using PWA(Progressive Web Applications)"
+		],
+		"phpexp":["Worked as Full stack web developer at mobly technologies for 9 months.","Working as Full stack web developer at Buena.softech.pvt.ltd form last 2 years.","Concentrated for 2+ years on Web developing using PHP (Production,Real Application) which includes web site Design (logical and physical),and database maintanance","Developed few e-commerce websites based on cms such as Magento","Completed nearly 18 projects in PSTP program which was conducted by APSSDC for Final year engineering students.","Developed few business websites using wordpress content Management System.","Developed few web sites using framework like MVC CodeIgniter."],
+		"jsexp":["While doing Front-End nanodegree provided by Udacity, I built two projects on React.","In those I worked on concepts like react-router-dom, google-maps-react, Props and States.","I used Nodejs for running the project and used NPM to install different node packages few are listed above.","As per the instructions given by the APSSDC, I conducted PSTP program at Gudlavalleru Engineering College, In that I trained 36 students with 18 projects.","For developing those projects, we used JavaScript for implementing dynamic behaviour of a web page. Used HighchartsJs for analytics, HowlerJs for audio events."],
+		"pwaexp":["Got trained at Google Inc, Banglore for PWA and its concepts by Sarah Clark.","Trained nearly 1K students in PWA and its related concepts (serviceWorker, indexedDB and manifest)"],
+		"skill":{
+			"languages":["HTML5", "CSS3", "Javascript(ES-6)", "PHP"],
+			"frameworks":["Bootstrap", "Codeigniter"],
+			"libraries":["Jquery","ReactJs","HighchartsJs","HowlerJS"],
+			"database":["Sql", "Mysql", "Mysqli"],
+			"cms":["Wordpress","Magento","Opencart"]
+		}
+	}
+}
